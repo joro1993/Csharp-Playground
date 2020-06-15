@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\obj\Debug\netcoreapp3.0\FiveAnimals.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\obj\Debug\netcoreapp3.0\FiveAnimals.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\obj\Debug\netcoreapp3.0\FiveAnimals.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\bin\Debug\netcoreapp3.0\FiveAnimals.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\obj\Debug\netcoreapp3.0\FiveAnimals.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\FiveAnimals1\FiveAnimals\obj\Debug\netcoreapp3.0\FiveAnimals.pdb

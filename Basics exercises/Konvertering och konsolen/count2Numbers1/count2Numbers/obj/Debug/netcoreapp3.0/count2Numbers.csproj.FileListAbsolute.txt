@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\bin\Debug\netcoreapp3.0\count2Numbers.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\obj\Debug\netcoreapp3.0\count2Numbers.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\obj\Debug\netcoreapp3.0\count2Numbers.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\obj\Debug\netcoreapp3.0\count2Numbers.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\obj\Debug\netcoreapp3.0\count2Numbers.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\count2Numbers1\count2Numbers\obj\Debug\netcoreapp3.0\count2Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\bin\Debug\netcoreapp3.0\NameAndAge.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\obj\Debug\netcoreapp3.0\NameAndAge.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\obj\Debug\netcoreapp3.0\NameAndAge.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\obj\Debug\netcoreapp3.0\NameAndAge.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\obj\Debug\netcoreapp3.0\NameAndAge.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\NameAndAge1\NameAndAge\obj\Debug\netcoreapp3.0\NameAndAge.pdb

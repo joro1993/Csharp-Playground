@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xZNukmhTY62U68sM4mFGepwWyA2F+Cf0b/gWV+7XZAKLPSwmyLot3kLSIUbGZfHH2q0TpiN8ES+h54IjRIfLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonas\\Desktop\\myCode\\1. Skola\\Webbutveckling .NET\\Kurser\\2, OOP med C#\\inlämning 1 - Multifabriken\\Övningar\\Ryggsäcken\\backpack2\\backpack1\\backpack1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

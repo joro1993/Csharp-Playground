@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\bin\Debug\netcoreapp3.0\convert.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\obj\Debug\netcoreapp3.0\convert.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\obj\Debug\netcoreapp3.0\convert.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\obj\Debug\netcoreapp3.0\convert.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\obj\Debug\netcoreapp3.0\convert.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\convert1\convert\obj\Debug\netcoreapp3.0\convert.pdb

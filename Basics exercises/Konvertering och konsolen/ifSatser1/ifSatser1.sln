@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifSatser", "ifSatser\ifSatser.csproj", "{12EFF185-9C07-4D1E-ADD7-EC7A80D1D69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EFF185-9C07-4D1E-ADD7-EC7A80D1D69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EFF185-9C07-4D1E-ADD7-EC7A80D1D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EFF185-9C07-4D1E-ADD7-EC7A80D1D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EFF185-9C07-4D1E-ADD7-EC7A80D1D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D80FEF-2283-4E99-9769-58CCCF7AD078}
+	EndGlobalSection
+EndGlobal

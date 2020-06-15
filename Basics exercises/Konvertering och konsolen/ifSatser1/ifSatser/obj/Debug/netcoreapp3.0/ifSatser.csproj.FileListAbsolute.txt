@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\bin\Debug\netcoreapp3.0\ifSatser.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\obj\Debug\netcoreapp3.0\ifSatser.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\obj\Debug\netcoreapp3.0\ifSatser.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\obj\Debug\netcoreapp3.0\ifSatser.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\obj\Debug\netcoreapp3.0\ifSatser.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Konvertering och konsolen\ifSatser1\ifSatser\obj\Debug\netcoreapp3.0\ifSatser.pdb

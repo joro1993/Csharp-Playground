@@ -1,0 +1,11 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\bin\Debug\netcoreapp3.0\welcomeMessage.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\obj\Debug\netcoreapp3.0\welcomeMessage.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\obj\Debug\netcoreapp3.0\welcomeMessage.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\obj\Debug\netcoreapp3.0\welcomeMessage.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\obj\Debug\netcoreapp3.0\welcomeMessage.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\welcomeMessage1\welcomeMessage\obj\Debug\netcoreapp3.0\welcomeMessage.pdb

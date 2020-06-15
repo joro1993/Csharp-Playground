@@ -1,0 +1,22 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.pdb
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.exe
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.deps.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.runtimeconfig.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.dll
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\bin\Debug\netcoreapp3.0\shortStory.pdb
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.AssemblyInfo.cs
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.dll
+C:\Users\jonas\Desktop\skola\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\inmatning och utmatning\shortStory1\shortStory\obj\Debug\netcoreapp3.0\shortStory.pdb

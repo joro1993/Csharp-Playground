@@ -1,0 +1,22 @@
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.csprojAssemblyReference.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.AssemblyInfoInputs.cache
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.AssemblyInfo.cs
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\obj\Debug\netcoreapp3.0\presentation.pdb
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.exe
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.deps.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.runtimeconfig.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.runtimeconfig.dev.json
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.dll
+C:\Users\jonas R\Desktop\webbutveckling .NET\Kurser\2, OOP med C#\inlämning 1 - Multifabriken\Övningar\Listor och klasser\presentation1\presentation\bin\Debug\netcoreapp3.0\presentation.pdb
