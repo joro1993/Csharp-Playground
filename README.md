@@ -1,2 +1,2 @@
 # Csharp-Playground
-Console applications with C#
+Console applications and ASP.NET Core applications with C#
